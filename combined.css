@@ -1,0 +1,35 @@
+/* Importing Bootstrap */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+/* Importing Bulma */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css');
+
+/* Importing Tailwind CSS */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css');
+
+/* Importing Foundation */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/foundation/6.6.3/css/foundation.min.css');
+
+/* Importing Materialize */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css');
+
+/* Importing Semantic UI */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css');
+
+/* Importing UIKit */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/uikit/3.6.22/css/uikit.min.css');
+
+/* Importing Pure CSS */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pure/2.0.6/pure-min.css');
+
+/* Importing Spectre.css */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.5.9/spectre.min.css');
+
+/* Importing Skeleton */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css');
+
+/* Importing Milligram */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.min.css');
+
+/* Importing Tachyons */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.12.0/tachyons.min.css');

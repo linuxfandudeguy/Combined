@@ -33,3 +33,9 @@
 
 /* Importing Tachyons */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.12.0/tachyons.min.css');
+
+/* Importing Gitcss */
+@import url('https://cdn.jsdelivr.net/gh/linuxfandudeguy/gitcss@firstver/git.min.css');
+
+/* Importing Reset CSS from Normalize.css */
+@import url('https://necolas.github.io/normalize.css/latest/normalize.css');
